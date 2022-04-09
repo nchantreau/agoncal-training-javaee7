@@ -38,7 +38,7 @@
         <version.cdi>1.1</version.cdi>
         <version.eclipselink>2.5.2</version.eclipselink>
         <version.derby>10.11.1.1</version.derby>
-        <version.log4j>2.1</version.log4j>
+        <version.log4j>2.17.1</version.log4j>
         <version.junit>4.11</version.junit>
         <version.plantuml>8048</version.plantuml>
         <!-- Plugins -->
