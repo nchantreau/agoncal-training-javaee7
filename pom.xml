@@ -39,7 +39,7 @@
         <version.eclipselink>2.5.2</version.eclipselink>
         <version.derby>10.11.1.1</version.derby>
         <version.log4j>2.1</version.log4j>
-        <version.junit>4.11</version.junit>
+        <version.junit>4.13.1</version.junit>
         <version.plantuml>8048</version.plantuml>
         <!-- Plugins -->
         <version.maven.clean.plugin>3.0.0</version.maven.clean.plugin>
